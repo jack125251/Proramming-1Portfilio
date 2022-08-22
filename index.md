@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Programming 1
 
 You can use the [editor on GitHub](https://github.com/jack125251/Proramming-1Portfilio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
