@@ -17,8 +17,8 @@ Graphic based OOP calculator.
 
 ### Screen Saver
 
-![Running Screen Saver] ()
+![Running Screen Saver]()
 
-[Source Code] ()
+[Source Code]()
 
 ## Programming 2 Semester 2 Projects:
