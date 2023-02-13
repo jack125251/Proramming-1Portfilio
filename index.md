@@ -1,10 +1,16 @@
-# Welcome to Programming 1
+# Welcome Jack's to Programming 1
 
 ## Programming 1 Semester 1 Projects:
 
 ### OOP Calculator
 Graphic based OOP calculator.
-Source Code
-Exported App
 
-## Programming 1 Semester 2 Projects:
+![Running Calculator] ()
+
+[Source Code] ()
+
+### Space Game
+
+### Screen Saver
+
+## Programming 2 Semester 2 Projects:
