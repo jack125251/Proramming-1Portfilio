@@ -27,9 +27,13 @@ Graphic based OOP calculator.
 
 ![Running Number Game](https://github.com/jack125251/Proramming-1Portfilio/blob/gh-pages/images/numbergame.png?raw=true)
 
+[Source Code](https://github.com/jack125251/Proramming-1Portfilio/tree/gh-pages/src/Number%20Game)
+
 ### Shape Tester
 
 ![Running Shape Tester](https://github.com/jack125251/Proramming-1Portfilio/blob/gh-pages/images/shapetester.png?raw=true)
+
+[Source Code](https://github.com/jack125251/Proramming-1Portfilio/tree/gh-pages/src/Shape%20Tester)
 
 ### Pig Latin Converter
 
