@@ -21,4 +21,16 @@ Graphic based OOP calculator.
 
 [Source Code](https://github.com/jack125251/Proramming-1Portfilio/tree/gh-pages/src/Screen%20Saver)
 
-## Programming 2 Semester 2 Projects:
+## Programming 1 Semester 2 Projects:
+
+### Number Guessing Game
+
+![Running Number Game](https://github.com/jack125251/Proramming-1Portfilio/blob/gh-pages/images/numbergame.png?raw=true)
+
+### Shape Tester
+
+![Running Shape Tester](https://github.com/jack125251/Proramming-1Portfilio/blob/gh-pages/images/shapetester.png?raw=true)
+
+### Pig Latin Converter
+
+![Running Pig Latin Converter](https://github.com/jack125251/Proramming-1Portfilio/blob/gh-pages/images/piglatin.png?raw=true)
