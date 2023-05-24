@@ -48,6 +48,6 @@ Converts a word to pig latin
 
 ### Chess Group Project
 Graphics based chess with movable pieces
-! [Running Chess](https://github.com/jack125251/Proramming-1Portfilio/blob/gh-pages/images/chess.png?raw=true)
+![Running Chess](https://github.com/jack125251/Proramming-1Portfilio/blob/gh-pages/images/chess.png?raw=true)
 
 [Source Code](https://github.com/jack125251/Proramming-1Portfilio/tree/gh-pages/src/Chess)
