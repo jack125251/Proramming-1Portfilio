@@ -1,4 +1,4 @@
-# Welcome Jack's to Programming 1
+# Welcome to Jack's Programming 1 Portfolio
 
 ## Programming 1 Semester 1 Projects:
 
